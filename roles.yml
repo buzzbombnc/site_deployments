@@ -1,0 +1,10 @@
+---
+- src: https://github.com/buzzbombnc/apache_role.git
+
+- src: https://github.com/buzzbombnc/python_appserver_role.git
+
+- src: https://github.com/buzzbombnc/apache_vhost.git
+
+- src: https://github.com/buzzbombnc/application_role.git
+
+- src: https://github.com/buzzbombnc/webappdeploy_role.git
